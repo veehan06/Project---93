@@ -1,0 +1,27 @@
+.logo
+{
+	width: 80px;margin-top: 30px;border-radius: 40px;
+}
+.header
+{
+	color: white;font-family: 'Yeon Sung';
+}
+.sw{
+    font-weight: 100;
+}
+.header img
+{
+	width: 80px;margin-left: -15px;
+}
+.div1{
+    height: 500px;
+    padding-top:100px;
+}
+.div2{
+    width: 1000%;
+    padding-top:100px;
+}
+#login_button
+{
+	width: 80%;border-radius: 15px;
+}
